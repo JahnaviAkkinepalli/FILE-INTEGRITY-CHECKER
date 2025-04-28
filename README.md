@@ -1,10 +1,17 @@
 COMPANY: CODTECH IT SOLUTIONS 
+
 NAME: AKKINEPALLI JAHNAVI
+
 INTERN ID: CT06WK30
+
 DOMAIN: CYBER SECURITY & ETHICAL HACKING
+
 DURATION: 6 WEEEKS 
+
 MENTOR: NEELA SANTOSH 
+
 DESCRIPTION:
+
 This Python script is a File Integrity Checker designed to help users monitor the integrity of files in a specified directory. It serves two primary purposes: generating cryptographic hashes for files and checking those files later to detect any modifications, deletions, or additions. This is useful for cybersecurity, system administration, backup verification, or simply ensuring that important files are not tampered with over time.
 
 Main Functionalities:
