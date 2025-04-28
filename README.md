@@ -72,4 +72,6 @@ Cross-platform: As it is built on pure Python, it can run on Linux, Windows, or 
 
 Readable Output: The script clearly marks missing, modified, and newly added files for quick analysis.
 
+OUTPUT:
+
 <img width="959" alt="Image" src="https://github.com/user-attachments/assets/2b5fb7bf-9f27-4584-bd19-a59dd25694e3" />
